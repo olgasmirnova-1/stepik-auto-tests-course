@@ -1,3 +1,3 @@
 # stepik-auto-tests-course
-Tasks
-https://stepik.org/lesson/187065
+Tasks fro course
+https://stepik.org/course/575
